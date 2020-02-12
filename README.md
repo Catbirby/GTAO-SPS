@@ -17,7 +17,7 @@ A simple powershell script that suspends the GTA process forcing you into a solo
 - If you accidentaly ended the script early you can navigate to the PSTools folder and open powershell then type `.\pssuspend.exe gta5.exe -r` and this will resume the process
 - This just streamlines the long used method of unplugging your ethernet cable for 5 seconds or interruptings GTA's network access using Windows' resmon utility.
 - I hold no resposibility for any issues you experience while using this including being banned from GTA:O
-
+- This script works really well in tandem with applications that can call powershell files without you ever having to leave the game, for example [Touch Portal](https://www.touch-portal.com/)
 ## License
 This project is licensed under the GNU-GPL License. See the [license](https://github.com/Catbirby/GTAO-SPS/blob/master/LICENSE) file for details.
 
